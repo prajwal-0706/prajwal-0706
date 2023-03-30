@@ -5,8 +5,8 @@
 
 ## 💫 About Me:
 🎓I'm a Student and Developer.<br>
-💻I’m currently Working on Front End Web Development<br>
-🚀I’m currently learning React Js.<br>
+💻I’m currently Working on Full Stack Web Development<br>
+🚀I’m currently learning Backend development.<br>
 
 <br>
 
