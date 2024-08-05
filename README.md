@@ -1,18 +1,30 @@
 <div align="center">
-<img src="https://github.com/InTruder-Sec/InTruder-Sec/blob/main/svg.svg" align="center" style="width: 50%" />
+<img src="https://github.com/InTruder-Sec/InTruder-Sec/blob/main/svg.svg" align="center" style="width: 40%" />
 </div> 
 
 
 ## 💫 About Me:
+<h4>
 🎓I'm a Student and Developer.<br>
 💻I’m currently Working on Full Stack Web Development<br>
 🚀I’m currently learning Backend development.<br>
-
+😎 Checkout my Portfolio at <a target="_blank" href="https://prajwal-gadhave.netlify.app/">prajwal-gadhave.netlify.app</a>
+</h4>
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_p_r_a_j_w_a_l_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-gadhave-687aaa241)
-[![](https://visitcount.itsvg.in/api?id=prajwal-0706&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQydjBqanAxMzAxeXZjM2phd3FodHVzZzFldnJnNXMxNGNhdXcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
+
+<div align="left">
+  <a href="https://youtube.com/@SaarahCodes" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://instagram.com/_p_r_a_j_w_a_l_06/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="mailto:prajwalgadhave356@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/prajwal-gadhave"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+<br>
+<br>
+<br>
 
 <br>
 
@@ -26,24 +38,16 @@
 </div>
 <br>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-</div>
-<br>
-
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=prajwal-0706&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-0706&theme=midnight-purple&hide_border=false)<br/><br>
-[![Prajwal Gadhave's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-0706&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-0706&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+  <br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-0706&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-0706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br><br>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
