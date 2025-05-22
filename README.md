@@ -4,12 +4,14 @@
 
 
 ## 💫 About Me:
-<h4>
-🎓I'm a Student and Developer.<br>
-💻I’m currently Working on Full Stack Web Development<br>
-🚀I’m currently learning Backend development.<br>
-😎 Checkout my Portfolio at <a target="_blank" href="https://prajwal-gadhave.netlify.app/">prajwal-gadhave.netlify.app</a>
-</h4>
+<H4>
+👋 Hi! My name is Prajwal and I am from India 🇮🇳 </br>
+🎓 A great Student, Developer, DevOps and Cloud Enthusiast. <br>
+  
+🚀 I currently work at <a href="https://github.com/sell-do/">@Sell.do</a> as Product Engineer Intern <br>
+😎 Checkout my Portfolio at <a href="https://prajwal-gadhave.netlify.app/">prajwal-gadhave.netlify.app/</a> <br>
+🕸️ Currently contributing from <a href="https://github.com/prajwal-gadhave-selldo">@prajwal-gadhave-selldo</a>
+</H4>
 <br>
 
 ## 🌐 Socials:
@@ -33,7 +35,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,ts,mongodb,express,react,nodejs,bootstrap,tailwind,flask,django,redux,materialui,postman,mysql,netlify,vercel,nextjs,firebase,appwrite,supabase,redis,aws,gcp,azure,cloudflare,linux,bash,ai,tensorflow,pytorch,docker,kubernetes,ansible,openshift,jenkins,githubactions,flutter,figma,threejs,kafka&perline=15)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,ts,ruby,php,mongodb,express,react,nodejs,bootstrap,tailwind,rails,flask,django,redux,materialui,postman,mysql,netlify,vercel,nextjs,firebase,appwrite,supabase,redis,aws,gcp,azure,cloudflare,linux,bash,docker,kubernetes,ansible,openshift,jenkins,githubactions,flutter,figma,threejs,kafka,&perline=15)]()
 
 </div>
 <br>
