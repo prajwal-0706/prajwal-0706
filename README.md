@@ -8,7 +8,7 @@
 👋 Hi! My name is Prajwal and I am from India 🇮🇳 </br>
 🎓 A great Student, Developer, DevOps and Cloud Enthusiast. <br>
   
-🚀 I currently work at <a href="https://github.com/sell-do/">@Sell.do</a> as Product Engineer <br>
+<!-- 🚀 I currently work at <a href="https://github.com/sell-do/">@Sell.do</a> as Product Engineer <br> -->
 😎 Checkout my Portfolio at <a href="https://prajwal-gadhave.netlify.app/">prajwal-gadhave.netlify.app/</a> <br>
 🕸️ Currently contributing from <a href="https://github.com/prajwal-gadhave-selldo">@prajwal-gadhave-selldo</a>
 </H4>
