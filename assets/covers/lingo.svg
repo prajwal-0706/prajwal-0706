@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Lingo, a language learning app with AI voice lessons">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#065f46"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="400" height="260" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="260" fill="url(#g)"/>
+    <circle cx="70" cy="40" r="120" fill="#34d399" opacity="0.18"/>
+    <circle cx="340" cy="240" r="110" fill="#60a5fa" opacity="0.18"/>
+  </g>
+  <g>
+    <path d="M110 92 h112 a18 18 0 0 1 18 18 v44 a18 18 0 0 1 -18 18 h-66 l-26 22 v-22 h-20 a18 18 0 0 1 -18 -18 v-44 a18 18 0 0 1 18 -18 z" fill="#ffffff"/>
+    <text x="166" y="146" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#065f46">Aa</text>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="3s" repeatCount="indefinite"/>
+      <path d="M236 120 h92 a18 18 0 0 1 18 18 v44 a18 18 0 0 1 -18 18 h-20 v22 l-26 -22 h-46 a18 18 0 0 1 -18 -18 v-44 a18 18 0 0 1 18 -18 z" fill="#ffffff" fill-opacity="0.95"/>
+      <text x="282" y="174" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#1d4ed8">नमस्ते</text>
+    </g>
+    <g fill="#fbbf24">
+      <path d="M318 64 l5 11 12 1 -9 8 3 12 -11 -6 -11 6 3 -12 -9 -8 12 -1 z"/>
+      <path d="M346 86 l4 8 9 1 -7 6 2 9 -8 -5 -8 5 2 -9 -7 -6 9 -1 z" opacity="0.8"/>
+    </g>
+  </g>
+  <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="28" y="48" font-size="22" font-weight="800">Lingo</text>
+    <text x="28" y="236" font-size="13" opacity="0.85">AI voice lessons, hearts, XP and a leaderboard</text>
+  </g>
+</svg>

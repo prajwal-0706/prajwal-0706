@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Keep Up, a real-time notes editor">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9a3412"/>
+      <stop offset="1" stop-color="#be185d"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="400" height="260" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="260" fill="url(#g)"/>
+    <circle cx="330" cy="50" r="120" fill="#fb923c" opacity="0.2"/>
+    <circle cx="40" cy="250" r="110" fill="#f472b6" opacity="0.18"/>
+  </g>
+  <g>
+    <rect x="124" y="70" width="152" height="150" rx="14" fill="#ffffff" transform="rotate(-6 200 145)" opacity="0.5"/>
+    <rect x="124" y="66" width="152" height="150" rx="14" fill="#ffffff"/>
+    <rect x="144" y="94" width="72" height="12" rx="6" fill="#be185d"/>
+    <rect x="144" y="122" width="112" height="8" rx="4" fill="#fda4af"/>
+    <rect x="144" y="140" width="96" height="8" rx="4" fill="#fda4af"/>
+    <rect x="144" y="158" width="104" height="8" rx="4" fill="#fda4af"/>
+    <rect x="144" y="176" width="0" height="8" rx="4" fill="#be185d">
+      <animate attributeName="width" values="0;80;80;0" keyTimes="0;0.5;0.85;1" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="226" y="174" width="3" height="12" fill="#be185d">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="144;224;224;144" keyTimes="0;0.5;0.85;1" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="276" cy="66" r="12" fill="#22c55e" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="28" y="48" font-size="22" font-weight="800">Keep Up</text>
+    <text x="28" y="236" font-size="13" opacity="0.85">Real-time notes, nested pages, instant sharing</text>
+  </g>
+</svg>

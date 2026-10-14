@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Fusion Flow, a no-code web scraping platform">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4c1d95"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="400" height="260" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="260" fill="url(#g)"/>
+    <circle cx="330" cy="40" r="120" fill="#a78bfa" opacity="0.18"/>
+    <circle cx="60" cy="240" r="110" fill="#22d3ee" opacity="0.16"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity="0.6" stroke-width="2.5" fill="none">
+    <path d="M88 150 C130 150 130 96 172 96"/>
+    <path d="M88 150 C130 150 130 204 172 204"/>
+    <path d="M196 96 C240 96 240 150 282 150"/>
+    <path d="M196 204 C240 204 240 150 282 150"/>
+  </g>
+  <g>
+    <rect x="48" y="130" width="40" height="40" rx="12" fill="#ffffff"/>
+    <rect x="172" y="76" width="24" height="40" rx="8" fill="#ffffff" fill-opacity="0.9"/>
+    <rect x="172" y="184" width="24" height="40" rx="8" fill="#ffffff" fill-opacity="0.9"/>
+    <rect x="282" y="122" width="56" height="56" rx="16" fill="#ffffff"/>
+    <circle cx="310" cy="150" r="9" fill="#4c1d95">
+      <animate attributeName="r" values="9;13;9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="5" fill="#22d3ee">
+      <animateMotion dur="2.4s" repeatCount="indefinite" path="M88 150 C130 150 130 96 172 96"/>
+    </circle>
+    <circle r="5" fill="#22d3ee">
+      <animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M88 150 C130 150 130 204 172 204"/>
+    </circle>
+  </g>
+  <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="28" y="48" font-size="22" font-weight="800">Fusion Flow</text>
+    <text x="28" y="236" font-size="13" opacity="0.85">No-code scraping, one prompt to clean JSON</text>
+  </g>
+</svg>
