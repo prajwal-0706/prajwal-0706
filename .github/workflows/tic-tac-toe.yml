@@ -1,0 +1,42 @@
+name: tic-tac-toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: tic-tac-toe
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Play the move
+        run: node scripts/ttt.js
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commit the board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md state/ttt.json
+          git commit -m "ttt: move by ${{ github.event.issue.user.login }}" || echo "nothing to commit"
+          git pull --rebase
+          git push

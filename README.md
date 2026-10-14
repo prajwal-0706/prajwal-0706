@@ -1,58 +1,47 @@
-<div align="center">
-<img src="https://github.com/InTruder-Sec/InTruder-Sec/blob/main/svg.svg" align="center" style="width: 40%" />
-</div> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gitlog-dark.svg">
+  <img src="assets/gitlog-light.svg" width="100%" alt="git log of Prajwal Gadhave: founding engineer in 2026, three open-source fixes shipped, Budget AI gateway, Sell.Do, CodeQuest winner, COMPSA technical head, started in Pune in 2021">
+</picture>
 
+<p align="center"><b>Prajwal Gadhave</b> · founding engineer in Pune, India · I take things from an empty repo to real users and I like the whole path: the backend, the frontend, the cluster it runs on, the runbook that keeps it up.</p>
 
-## 💫 About Me:
-<H4>
-👋 Hi! My name is Prajwal and I am from India 🇮🇳 </br>
-🎓 A great Student, Developer, DevOps and Cloud Enthusiast. <br>
-  
-<!-- 🚀 I currently work at <a href="https://github.com/sell-do/">@Sell.do</a> as Product Engineer <br> -->
-😎 Checkout my Portfolio at <a href="https://prajwal-gadhave.netlify.app/">prajwal-gadhave.netlify.app/</a> <br>
-🕸️ Currently contributing from <a href="https://github.com/prajwal-gadhave-selldo">@prajwal-gadhave-selldo</a>
-</H4>
-<br>
+## Beat my profile at tic-tac-toe
 
-## 🌐 Socials:
+One shared board for everyone, and you are X. Click an empty square, press "Submit new issue" on the page that opens, and a GitHub Action plays O within a minute, redraws the board and closes the issue. The bot searches the whole game tree, so a draw is the high score.
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQydjBqanAxMzAxeXZjM2phd3FodHVzZzFldnJnNXMxNGNhdXcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
+<!-- ttt:start -->
+<table>
+    <tr><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C1&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 1" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C2&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 2" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C3&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 3" /></a></td></tr>
+    <tr><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C4&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 4" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C5&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 5" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C6&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 6" /></a></td></tr>
+    <tr><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C7&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 7" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C8&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 8" /></a></td><td align="center"><a href="https://github.com/prajwal-0706/prajwal-0706/issues/new?title=ttt%7C9&body=Just%20press%20%22Submit%20new%20issue%22.%20My%20profile%20plays%20its%20move%20within%20a%20minute%20and%20closes%20this%20issue."><img src="assets/ttt/empty.svg" width="72" height="72" alt="play square 9" /></a></td></tr>
+</table>
 
-<div align="left">
-  <a href="https://youtube.com/@SaarahCodes" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://instagram.com/_p_r_a_j_w_a_l_06/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="mailto:prajwalgadhave356@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://linkedin.com/in/prajwal-gadhave"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-<br>
-<br>
-<br>
+**Your move. You are X.**
 
-<br>
+Scoreboard: you 0 · me 0 · draws 0 · games 0
+<!-- ttt:end -->
 
-## 💻 Tech Stack:
-<br>
+## Ship log
 
-<div align="center">
+| Where | What I fixed | Why it mattered |
+|---|---|---|
+| [tscircuit/jlcsearch #614](https://github.com/tscircuit/jlcsearch/pull/614) | Search index joined on rowids that changed on every rebuild | Production search returned unrelated parts on every uncached request |
+| [tscircuit/cli #5366](https://github.com/tscircuit/cli/pull/5366) | A failed account lookup was reported as a missing handle | A 503 told users to fix their profile instead of retrying |
+| [tscircuit/schematic-viewer #292](https://github.com/tscircuit/schematic-viewer/pull/292) | An unused peer dependency dragged in react-router-dom@6 | Two advisories showed up in every consumer's scan |
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,ts,ruby,php,mongodb,express,react,nodejs,bootstrap,tailwind,rails,flask,django,redux,materialui,postman,mysql,netlify,vercel,nextjs,firebase,appwrite,supabase,redis,aws,gcp,azure,cloudflare,linux,bash,docker,kubernetes,ansible,openshift,jenkins,githubactions,flutter,figma,threejs,kafka,&perline=15)]()
+## Side quests
 
-</div>
-<br>
+[**Fusion Flow**](https://github.com/prajwal-0706/fusion-flow), a no-code scraping SaaS with one-prompt AI extraction · [**Lingo**](https://github.com/prajwal-0706/lingo), a language app with AI voice lessons and an XP economy · [**Keep Up**](https://github.com/prajwal-0706/Keep-Up), a real-time notes editor with nested archive and restore
 
-## 📊 GitHub Stats:
+## Puzzles
 
-<div align="center">
-  <br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-0706&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-0706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<br><br>
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/prajwal_06_?theme=dark&font=Fira%20Code&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/prajwal_06_?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode stats for prajwal_06_">
+</picture>
 
+## Say hi
 
+Open to part-time contract work and good conversations about backends, clusters and products. [LinkedIn](https://linkedin.com/in/prajwal-gadhave) · [Portfolio](https://prajwal-gadhave.vercel.app/) · prajwalgadhave356@gmail.com
 
-
-
+<p align="center"><sub>Pune, India · chai over coffee · the best bug report is a failing test</sub></p>
