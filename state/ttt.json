@@ -1,10 +1,10 @@
 {
   "board": [
+    "O",
     "",
     "",
     "",
-    "",
-    "",
+    "X",
     "",
     "",
     "",
@@ -15,6 +15,6 @@
   "me": 0,
   "draws": 0,
   "over": false,
-  "status": "Your move. You are X.",
-  "lastPlayer": ""
+  "status": "You played 5, I played 1. Your move, @prajwal-0706.",
+  "lastPlayer": "prajwal-0706"
 }
