@@ -2,19 +2,19 @@
   "board": [
     "O",
     "",
-    "",
+    "O",
     "",
     "X",
     "",
     "",
     "",
-    ""
+    "X"
   ],
   "games": 0,
   "you": 0,
   "me": 0,
   "draws": 0,
   "over": false,
-  "status": "You played 5, I played 1. Your move, @prajwal-0706.",
+  "status": "You played 9, I played 3. Your move, @prajwal-0706.",
   "lastPlayer": "prajwal-0706"
 }
